@@ -38,6 +38,6 @@
   "TPBot.trackEvent|block": "حالة حساس تتبع الخطوط %side  %state",
   "TPBot.trackLine|block": "حالة حساس تتبع الخطوط %state",
   "TPBot.trackSide|block": " حساس تتبع الخطوط %side %state",
-  "TPBot|block": "سيارتي",
+  "TPBot|block": "سيارتي الذكية",
   "{id:category}TPBot": "سيارتي"
 }
