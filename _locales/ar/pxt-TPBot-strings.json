@@ -28,7 +28,7 @@
   "TPBot.headlightColor|block": "غير لون الأنوار الامامية الى $color",
   "TPBot.headlightRGB|block": "غير لون الأنوار الامامية الى R:%r G:%g B:%b",
   "TPBot.setServo180|block": "وجه  المحرك %servo الى زاوية %angle °",
-  "TPBot.setServo360|block": "حدد المحرك %servo الى سرعة %speed \\%",
+  "TPBot.setServo360|block": "اضبط سرعة المحرك %servo الى  %speed \\%",
   "TPBot.setTravelSpeed|block": "انطلق %direc بسرعة %speed\\%",
   "TPBot.setTravelTime|block": "انطلق %direc بسرعة %speed\\% لمدة %time ثواني",
   "TPBot.setWheels|block": "غير سرعة العجلة اليسرى الى %lspeed\\%| غير سرعة العجلة اليمنى الى %rspeed\\%",
