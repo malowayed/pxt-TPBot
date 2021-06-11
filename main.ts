@@ -153,7 +153,7 @@ namespace TPBot {
     * @param speed Travel time, eg: 100
     */
     //% weight=95
-    //% block="Go %direc at speed %speed\\% for %time seconds"
+    //% block="GoGo %direc at speed %speed\\% for %time seconds"
     //% speed.min=0 speed.max=100
     //% direc.fieldEditor="gridpicker" direc.fieldOptions.columns=2
     export function setTravelTime(direc: DriveDirection, speed: number, time: number): void {
