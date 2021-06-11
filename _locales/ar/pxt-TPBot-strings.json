@@ -26,7 +26,7 @@
   "TPBot.TrackingState.L_unline_R_line|block": "◌ ●",
   "TPBot.headlightClose|block": "اطفي الأنوار الأمامية",
   "TPBot.headlightColor|block": "غير لون الأنوار الامامية الى $color",
-  "TPBot.headlightRGB|block": "غير لون الأنوار الامامية الى R:%r G:%g B:%b",
+  "TPBot.headlightRGB|block": "غير درجة لون الأنوار الامامية الى R:%r G:%g B:%b",
   "TPBot.setServo180|block": "وجه  المحرك %servo الى زاوية %angle °",
   "TPBot.setServo360|block": "اضبط سرعة المحرك %servo الى  %speed \\%",
   "TPBot.setTravelSpeed|block": "انطلق %direc بسرعة %speed\\%",
