@@ -12,7 +12,9 @@
         "main.ts",
         "_locales/zh/pxt-TPBot-strings.json",
         "_locales/de/pxt-TPBot-strings.json",
-        "_locales/de/pxt-TPBot-jsdoc-strings.json"
+        "_locales/de/pxt-TPBot-jsdoc-strings.json"و
+        "_locales/ar/pxt-TPBot-strings.json",
+        "_locales/ar/pxt-TPBot-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
